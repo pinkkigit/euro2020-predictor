@@ -13,14 +13,16 @@ const App = () => {
   ];
 
   return (
-    <div className="site-container">
-      <h2 className="site-header">EURO 2020 Simulator</h2>
-      {groupNames.map((m) => (
-        <div key={m}>
-          <Divider>{m}</Divider>
-          <Group name={m} />
-        </div>
-      ))}
+    <div className="container">
+      <div className="site-container">
+        <h2 className="site-header">EURO 2020 Predictor</h2>
+        {groupNames.map((m) => (
+          <div key={m}>
+            <Divider>{m}</Divider>
+            <Group name={m} />
+          </div>
+        ))}
+      </div>
     </div>
   );
 };

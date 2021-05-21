@@ -10,7 +10,7 @@
                     "team": {
                         "id": 784,
                         "name": "Italy",
-                        "crestUrl": "https://crests.football-data.org/784.svg"
+                        "crestUrl": "/assets/Italy.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -27,7 +27,7 @@
                     "team": {
                         "id": 788,
                         "name": "Switzerland",
-                        "crestUrl": "https://crests.football-data.org/788.svg"
+                        "crestUrl": "/assets/Switzerland.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -44,7 +44,7 @@
                     "team": {
                         "id": 803,
                         "name": "Turkey",
-                        "crestUrl": "https://crests.football-data.org/803.svg"
+                        "crestUrl": "/assets/Turkey.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -61,7 +61,7 @@
                     "team": {
                         "id": 833,
                         "name": "Wales",
-                        "crestUrl": "https://crests.football-data.org/833.svg"
+                        "crestUrl": "/assets/Wales.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -85,7 +85,7 @@
                     "team": {
                         "id": 805,
                         "name": "Belgium",
-                        "crestUrl": "https://crests.football-data.org/805.svg"
+                        "crestUrl": "/assets/Belgium.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -102,7 +102,7 @@
                     "team": {
                         "id": 782,
                         "name": "Denmark",
-                        "crestUrl": "https://crests.football-data.org/782.svg"
+                        "crestUrl": "/assets/Denmark.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -119,7 +119,7 @@
                     "team": {
                         "id": 1976,
                         "name": "Finland",
-                        "crestUrl": "https://crests.football-data.org/1976.svg"
+                        "crestUrl": "/assets/Finland.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -136,7 +136,7 @@
                     "team": {
                         "id": 808,
                         "name": "Russia",
-                        "crestUrl": "https://crests.football-data.org/808.svg"
+                        "crestUrl": "/assets/Russia.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -160,7 +160,7 @@
                     "team": {
                         "id": 816,
                         "name": "Austria",
-                        "crestUrl": "https://crests.football-data.org/816.svg"
+                        "crestUrl": "/assets/Austria.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -177,7 +177,7 @@
                     "team": {
                         "id": 8601,
                         "name": "Netherlands",
-                        "crestUrl": "https://crests.football-data.org/8601.svg"
+                        "crestUrl": "/assets/Netherlands.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -194,7 +194,7 @@
                     "team": {
                         "id": 1977,
                         "name": "North Macedonia",
-                        "crestUrl": "https://crests.football-data.org/1977.svg"
+                        "crestUrl": "/assets/Macedonia.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -211,7 +211,7 @@
                     "team": {
                         "id": 790,
                         "name": "Ukraine",
-                        "crestUrl": "https://crests.football-data.org/790.svg"
+                        "crestUrl": "/assets/Ukraine.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -235,7 +235,7 @@
                     "team": {
                         "id": 799,
                         "name": "Croatia",
-                        "crestUrl": "https://crests.football-data.org/799.svg"
+                        "crestUrl": "/assets/Croatia.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -252,7 +252,7 @@
                     "team": {
                         "id": 798,
                         "name": "Czech Republic",
-                        "crestUrl": "https://crests.football-data.org/798.svg"
+                        "crestUrl": "/assets/Czech Republic.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -269,7 +269,7 @@
                     "team": {
                         "id": 770,
                         "name": "England",
-                        "crestUrl": "https://crests.football-data.org/770.svg"
+                        "crestUrl": "/assets/England.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -286,7 +286,7 @@
                     "team": {
                         "id": 8873,
                         "name": "Scotland",
-                        "crestUrl": "https://crests.football-data.org/814.svg"
+                        "crestUrl": "/assets/Scotland.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -310,7 +310,7 @@
                     "team": {
                         "id": 794,
                         "name": "Poland",
-                        "crestUrl": "https://crests.football-data.org/794.svg"
+                        "crestUrl": "/assets/Poland.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -327,7 +327,7 @@
                     "team": {
                         "id": 768,
                         "name": "Slovakia",
-                        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+                        "crestUrl": "/assets/Slovakia.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -344,7 +344,7 @@
                     "team": {
                         "id": 760,
                         "name": "Spain",
-                        "crestUrl": "https://crests.football-data.org/760.svg"
+                        "crestUrl": "/assets/Spain.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -361,7 +361,7 @@
                     "team": {
                         "id": 792,
                         "name": "Sweden",
-                        "crestUrl": "https://crests.football-data.org/792.svg"
+                        "crestUrl": "/assets/Sweden.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -385,7 +385,7 @@
                     "team": {
                         "id": 773,
                         "name": "France",
-                        "crestUrl": "https://crests.football-data.org/773.svg"
+                        "crestUrl": "/assets/France.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -402,7 +402,7 @@
                     "team": {
                         "id": 759,
                         "name": "Germany",
-                        "crestUrl": "https://crests.football-data.org/759.svg"
+                        "crestUrl": "/assets/Germany.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -419,7 +419,7 @@
                     "team": {
                         "id": 827,
                         "name": "Hungary",
-                        "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+                        "crestUrl": "/assets/Hungary.png"
                     },
                     "playedGames": "0",
                     "form": null,
@@ -436,7 +436,7 @@
                     "team": {
                         "id": 765,
                         "name": "Portugal",
-                        "crestUrl": "https://crests.football-data.org/765.svg"
+                        "crestUrl": "/assets/Portugal.png"
                     },
                     "playedGames": "0",
                     "form": null,

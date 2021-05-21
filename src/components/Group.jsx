@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import Matches from "../matches.json";
-import Standings from "../standings.json";
 import GroupStandings from "./GroupStandings";
 import TeamFlag from "./TeamFlag";
 
@@ -38,7 +37,9 @@ const Group = ({ name }) => {
                   <tr>
                     <td className="group-game-date">{formatDate(m.utcDate)}</td>
                     {width > breakpoint ? (
-                      <td className="group-game-home">{m.homeTeam.name}</td>
+                      <td className="group-game-home">
+                        <strong>{m.homeTeam.name}</strong>
+                      </td>
                     ) : (
                       <td className="group-game-home">
                         <strong>{m.homeTeam.shortName}</strong>
@@ -58,7 +59,9 @@ const Group = ({ name }) => {
                       <TeamFlag url={m.awayTeam.crestUrl} />
                     </td>
                     {width > breakpoint ? (
-                      <td className="group-game-away">{m.awayTeam.name}</td>
+                      <td className="group-game-away">
+                        <strong>{m.awayTeam.name}</strong>
+                      </td>
                     ) : (
                       <td className="group-game-away">
                         <strong>{m.awayTeam.shortName}</strong>

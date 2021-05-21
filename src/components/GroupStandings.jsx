@@ -23,14 +23,23 @@ const GroupStandings = ({ name }) => {
             t.table.map((team) => (
               <tbody key={team.team.id}>
                 <tr>
-                  <td className="group-standings-team">{team.team.name}</td>
+                  <td className="group-standings-team-and-flag">
+                    <div>
+                      <TeamFlag url={team.team.crestUrl} />
+                    </div>
+                    <div className="group-standings-team">
+                      <strong>{team.team.name}</strong>
+                    </div>
+                  </td>
                   <td className="group-standings-goals">{team.won}</td>
                   <td className="group-standings-goals">{team.draw}</td>
                   <td className="group-standings-goals">{team.lost}</td>
                   <td className="group-standings-goals">
                     {team.goalsFor} - {team.goalsAgainst}
                   </td>
-                  <td className="group-standings-goals">{team.points}</td>
+                  <td className="group-standings-goals">
+                    <strong>{team.points}</strong>
+                  </td>
                 </tr>
               </tbody>
             ))

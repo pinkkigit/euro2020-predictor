@@ -2,11 +2,7 @@ import React from "react";
 import "../index.css";
 
 const TeamFlag = ({ url }) => {
-  return (
-    <span>
-      <img src={url} className="flag"></img>
-    </span>
-  );
+  return <img src={url} className="flag"></img>;
 };
 
 export default TeamFlag;

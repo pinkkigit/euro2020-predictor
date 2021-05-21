@@ -13,13 +13,15 @@ code {
 }
 
 .container {
-  background-color: grey;
-  min-height: 100vh;
+  background-color: #e7e7de;
+  padding: 0.1px;
 }
 
 .site-container {
   max-width: 1000px;
+  padding: inherit;
   margin: auto;
+  background-color: whitesmoke;
 }
 
 input {
@@ -89,6 +91,7 @@ input[type=number] {
   border: 1px solid darkslategray;
   border-radius: 10px;
   box-shadow: 0 0 3px black, 0 0 5px black;
+  background-color: #cfd3ce;
 }
 
 .group-game-header {
@@ -131,6 +134,7 @@ input[type=number] {
   min-width: 90%;
   align-self: center;
   font-size: 14px;
+  background-color: #cfd3ce;
 }
 
 #group-standings td {

@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Divider from "./components/Divider";
+import Group from "./components/Group";
 
-function App() {
+const App = () => {
+  const groupNames = [
+    "Group A",
+    "Group B",
+    "Group C",
+    "Group D",
+    "Group E",
+    "Group F",
+  ];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="site-container">
+      <h2 className="site-header">EURO 2020 Simulator</h2>
+      {groupNames.map((m) => (
+        <div key={m}>
+          <Divider>{m}</Divider>
+          <Group name={m} />
+        </div>
+      ))}
     </div>
   );
-}
+};
 
 export default App;

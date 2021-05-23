@@ -7,29 +7,29 @@ const GroupStandings = ({ name }) => {
   return (
     <div className="group-standing-container">
       <table id="group-standings">
-        <tbody>
+        <thead>
           <tr>
-            <th>Team</th>
+            <th></th>
             <th>W</th>
             <th>D</th>
             <th>L</th>
             <th>G</th>
-            <th>P</th>
+            <th>Pts</th>
           </tr>
-        </tbody>
+        </thead>
         {Standings.standings
           .filter((s) => s.group === name)
           .map((t) =>
             t.table.map((team) => (
               <tbody key={team.team.id}>
                 <tr>
-                  <td className="group-standings-team-and-flag">
-                    <div>
+                  <td>
+                    <span className="group-standings-team-and-flag">
                       <TeamFlag url={team.team.crestUrl} />
-                    </div>
-                    <div className="group-standings-team">
-                      <strong>{team.team.name}</strong>
-                    </div>
+                      <span className="group-standings-team">
+                        <strong>{team.team.name}</strong>
+                      </span>
+                    </span>
                   </td>
                   <td className="group-standings-goals">{team.won}</td>
                   <td className="group-standings-goals">{team.draw}</td>

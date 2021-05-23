@@ -26,7 +26,8 @@ code {
 
 input {
   width: 15px;
-  /* border-width: 1px; */
+  /* border: 1px; */
+  text-align: center;
 }
 
 /* Chrome, Safari, Edge, Opera */
@@ -85,12 +86,12 @@ input[type=number] {
 .group-games {
   flex: 1;
   font-size: 14px;
-  padding: 5px;
+  padding: 15px 5px 15px 5px;
   margin: 20px;
   margin-right: auto;
-  border: 1px solid darkslategray;
-  border-radius: 10px;
-  box-shadow: 0 0 3px black, 0 0 5px black;
+  border: 1px solid grey;
+  border-radius: 5px;
+  box-shadow: 0 0 3px black;
   background-color: #cfd3ce;
 }
 
@@ -123,50 +124,56 @@ input[type=number] {
   flex: 1;
   display: flex;
   justify-content: center;
-  /* background-color: blue;
-  margin: 20px; */
+  padding: 15px 5px 0px 5px;
+  margin: 20px;
+  margin-right: 15px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  box-shadow: 0 0 3px black;
+  background-color: #cfd3ce;
 }
 
 #group-standings {
   border-collapse: collapse;
-  margin: 20px;
   /* flex: 1; */
-  min-width: 90%;
-  align-self: center;
+  min-width: 100%;
   font-size: 14px;
   background-color: #cfd3ce;
 }
 
 #group-standings td {
-  border-bottom: 1px solid black;
-  border-right: 1px solid black;
   padding: 8px;
 }
+
+#group-standings tbody {
+  border-bottom: 1px solid rgb(99, 99, 99);
+}
+
+#group-standings tbody:nth-child(5){border-bottom: 0px;}
 
 /* #group-standings tbody:nth-child(even){background-color: lightgray;} */
 
 /* #group-standings tr:hover {background-color: #ddd;} */
 
 #group-standings th {
-  border: 1px solid black;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   text-align: center;
-  background-color: darkgreen;
-  color: white;
+  /* background-color: rgb(4, 68, 4); */
+  color: black;
+  border-bottom: 1px solid black;
 }
 
 .group-standings-team-and-flag {
   display: flex;
   align-items: center;
-  justify-items: center;
-  border-left: 1px solid black;
+  text-align: left;
 }
 
 .group-standings-team {
   min-width: 35%;
   table-layout: fixed;
   text-align: left;
+  margin-left: 3px;
   /* display: flex;
   align-items: center;
   justify-items: center; */
@@ -192,7 +199,6 @@ input[type=number] {
   /* .group-games, #group-standings {
     flex: 1;
   } */
-  
   .site-container {
     width: auto;
   }
@@ -203,11 +209,17 @@ input[type=number] {
   }
 
   .group-games {
-    /* margin-left: 5px;
-    margin-right: 5px; */
-    max-width: min-content;
+    max-width: 300px;
     padding: 10px;
     margin-left: auto;
+  }
+
+  .group-standing-container {
+    max-width: 300px;
+    min-width: 300px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
   }
   /* .group-game-date {
     max-width: 80px;

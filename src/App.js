@@ -1,6 +1,9 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Divider from "./components/Divider";
-import Group from "./components/Group";
+import { useDispatch, useSelector } from "react-redux";
+import { initializeTeams } from "./reducers/teamReducer";
+import { initializeMatches } from "./reducers/matchReducer";
+import GroupMatches from "./components/GroupMatches";
 
 const App = () => {
   const groupNames = [
@@ -12,6 +15,13 @@ const App = () => {
     "Group F",
   ];
 
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(initializeTeams());
+    dispatch(initializeMatches());
+  }, [dispatch]);
+
   return (
     <div className="container">
       <div className="site-container">
@@ -19,7 +29,7 @@ const App = () => {
         {groupNames.map((m) => (
           <div key={m}>
             <Divider>{m}</Divider>
-            <Group name={m} />
+            <GroupMatches name={m} />
           </div>
         ))}
       </div>

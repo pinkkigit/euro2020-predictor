@@ -1,454 +1,470 @@
-{
-    "standings": [
-        {
-            "stage": "GROUP STAGE",
-            "type": "TOTAL",
-            "group": "Group A",
-            "table": [
-                {
-                    "position": "1",
-                    "team": {
-                        "id": 784,
-                        "name": "Italy",
-                        "crestUrl": "/assets/Italy.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "3",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "9",
-                    "goalsFor": "10",
-                    "goalsAgainst": "10",
-                    "goalDifference": "0"
+[
+    {
+        "stage": "GROUP STAGE",
+        "group": "Group A",
+        "table": [
+            {
+                "position": 1,
+                "team": {
+                    "id": 784,
+                    "name": "Italy",
+                    "crestUrl": "/assets/Italy.png"
                 },
-                {
-                    "position": "2",
-                    "team": {
-                        "id": 788,
-                        "name": "Switzerland",
-                        "crestUrl": "/assets/Switzerland.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 2,
+                "team": {
+                    "id": 788,
+                    "name": "Switzerland",
+                    "crestUrl": "/assets/Switzerland.png"
                 },
-                {
-                    "position": "3",
-                    "team": {
-                        "id": 803,
-                        "name": "Turkey",
-                        "crestUrl": "/assets/Turkey.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 3,
+                "team": {
+                    "id": 803,
+                    "name": "Turkey",
+                    "crestUrl": "/assets/Turkey.png"
                 },
-                {
-                    "position": "4",
-                    "team": {
-                        "id": 833,
-                        "name": "Wales",
-                        "crestUrl": "/assets/Wales.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
-                }
-            ]
-        },
-        {
-            "stage": "GROUP STAGE",
-            "type": "TOTAL",
-            "group": "Group B",
-            "table": [
-                {
-                    "position": "1",
-                    "team": {
-                        "id": 805,
-                        "name": "Belgium",
-                        "crestUrl": "/assets/Belgium.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 4,
+                "team": {
+                    "id": 833,
+                    "name": "Wales",
+                    "crestUrl": "/assets/Wales.png"
                 },
-                {
-                    "position": "2",
-                    "team": {
-                        "id": 782,
-                        "name": "Denmark",
-                        "crestUrl": "/assets/Denmark.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            }
+        ]
+    },
+    {
+        "stage": "GROUP STAGE",
+        "group": "Group B",
+        "table": [
+            {
+                "position": 1,
+                "team": {
+                    "id": 805,
+                    "name": "Belgium",
+                    "crestUrl": "/assets/Belgium.png"
                 },
-                {
-                    "position": "3",
-                    "team": {
-                        "id": 1976,
-                        "name": "Finland",
-                        "crestUrl": "/assets/Finland.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 2,
+                "team": {
+                    "id": 782,
+                    "name": "Denmark",
+                    "crestUrl": "/assets/Denmark.png"
                 },
-                {
-                    "position": "4",
-                    "team": {
-                        "id": 808,
-                        "name": "Russia",
-                        "crestUrl": "/assets/Russia.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
-                }
-            ]
-        },
-        {
-            "stage": "GROUP STAGE",
-            "type": "TOTAL",
-            "group": "Group C",
-            "table": [
-                {
-                    "position": "1",
-                    "team": {
-                        "id": 816,
-                        "name": "Austria",
-                        "crestUrl": "/assets/Austria.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 3,
+                "team": {
+                    "id": 1976,
+                    "name": "Finland",
+                    "crestUrl": "/assets/Finland.png"
                 },
-                {
-                    "position": "2",
-                    "team": {
-                        "id": 8601,
-                        "name": "Netherlands",
-                        "crestUrl": "/assets/Netherlands.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 4,
+                "team": {
+                    "id": 808,
+                    "name": "Russia",
+                    "crestUrl": "/assets/Russia.png"
                 },
-                {
-                    "position": "3",
-                    "team": {
-                        "id": 1977,
-                        "name": "North Macedonia",
-                        "crestUrl": "/assets/Macedonia.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            }
+        ]
+    },
+    {
+        "stage": "GROUP STAGE",
+        "group": "Group C",
+        "table": [
+            {
+                "position": 1,
+                "team": {
+                    "id": 816,
+                    "name": "Austria",
+                    "crestUrl": "/assets/Austria.png"
                 },
-                {
-                    "position": "4",
-                    "team": {
-                        "id": 790,
-                        "name": "Ukraine",
-                        "crestUrl": "/assets/Ukraine.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
-                }
-            ]
-        },
-        {
-            "stage": "GROUP STAGE",
-            "type": "TOTAL",
-            "group": "Group D",
-            "table": [
-                {
-                    "position": "1",
-                    "team": {
-                        "id": 799,
-                        "name": "Croatia",
-                        "crestUrl": "/assets/Croatia.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 2,
+                "team": {
+                    "id": 8601,
+                    "name": "Netherlands",
+                    "crestUrl": "/assets/Netherlands.png"
                 },
-                {
-                    "position": "2",
-                    "team": {
-                        "id": 798,
-                        "name": "Czech Republic",
-                        "crestUrl": "/assets/Czech Republic.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 3,
+                "team": {
+                    "id": 1977,
+                    "name": "North Macedonia",
+                    "crestUrl": "/assets/Macedonia.png"
                 },
-                {
-                    "position": "3",
-                    "team": {
-                        "id": 770,
-                        "name": "England",
-                        "crestUrl": "/assets/England.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 4,
+                "team": {
+                    "id": 790,
+                    "name": "Ukraine",
+                    "crestUrl": "/assets/Ukraine.png"
                 },
-                {
-                    "position": "4",
-                    "team": {
-                        "id": 8873,
-                        "name": "Scotland",
-                        "crestUrl": "/assets/Scotland.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
-                }
-            ]
-        },
-        {
-            "stage": "GROUP STAGE",
-            "type": "TOTAL",
-            "group": "Group E",
-            "table": [
-                {
-                    "position": "1",
-                    "team": {
-                        "id": 794,
-                        "name": "Poland",
-                        "crestUrl": "/assets/Poland.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            }
+        ]
+    },
+    {
+        "stage": "GROUP STAGE",
+        "group": "Group D",
+        "table": [
+            {
+                "position": 1,
+                "team": {
+                    "id": 799,
+                    "name": "Croatia",
+                    "crestUrl": "/assets/Croatia.png"
                 },
-                {
-                    "position": "2",
-                    "team": {
-                        "id": 768,
-                        "name": "Slovakia",
-                        "crestUrl": "/assets/Slovakia.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 2,
+                "team": {
+                    "id": 798,
+                    "name": "Czech Republic",
+                    "crestUrl": "/assets/Czech Republic.png"
                 },
-                {
-                    "position": "3",
-                    "team": {
-                        "id": 760,
-                        "name": "Spain",
-                        "crestUrl": "/assets/Spain.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 3,
+                "team": {
+                    "id": 770,
+                    "name": "England",
+                    "crestUrl": "/assets/England.png"
                 },
-                {
-                    "position": "4",
-                    "team": {
-                        "id": 792,
-                        "name": "Sweden",
-                        "crestUrl": "/assets/Sweden.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
-                }
-            ]
-        },
-        {
-            "stage": "GROUP STAGE",
-            "type": "TOTAL",
-            "group": "Group F",
-            "table": [
-                {
-                    "position": "1",
-                    "team": {
-                        "id": 773,
-                        "name": "France",
-                        "crestUrl": "/assets/France.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 4,
+                "team": {
+                    "id": 8873,
+                    "name": "Scotland",
+                    "crestUrl": "/assets/Scotland.png"
                 },
-                {
-                    "position": "2",
-                    "team": {
-                        "id": 759,
-                        "name": "Germany",
-                        "crestUrl": "/assets/Germany.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            }
+        ]
+    },
+    {
+        "stage": "GROUP STAGE",
+        "group": "Group E",
+        "table": [
+            {
+                "position": 1,
+                "team": {
+                    "id": 794,
+                    "name": "Poland",
+                    "crestUrl": "/assets/Poland.png"
                 },
-                {
-                    "position": "3",
-                    "team": {
-                        "id": 827,
-                        "name": "Hungary",
-                        "crestUrl": "/assets/Hungary.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 2,
+                "team": {
+                    "id": 768,
+                    "name": "Slovakia",
+                    "crestUrl": "/assets/Slovakia.png"
                 },
-                {
-                    "position": "4",
-                    "team": {
-                        "id": 765,
-                        "name": "Portugal",
-                        "crestUrl": "/assets/Portugal.png"
-                    },
-                    "playedGames": "0",
-                    "form": null,
-                    "won": "0",
-                    "draw": "0",
-                    "lost": "0",
-                    "points": "0",
-                    "goalsFor": "0",
-                    "goalsAgainst": "0",
-                    "goalDifference": "0"
-                }
-            ]
-        }
-    ]
-}
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 3,
+                "team": {
+                    "id": 760,
+                    "name": "Spain",
+                    "crestUrl": "/assets/Spain.png"
+                },
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 4,
+                "team": {
+                    "id": 792,
+                    "name": "Sweden",
+                    "crestUrl": "/assets/Sweden.png"
+                },
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            }
+        ]
+    },
+    {
+        "stage": "GROUP STAGE",
+        "group": "Group F",
+        "table": [
+            {
+                "position": 1,
+                "team": {
+                    "id": 773,
+                    "name": "France",
+                    "crestUrl": "/assets/France.png"
+                },
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 2,
+                "team": {
+                    "id": 759,
+                    "name": "Germany",
+                    "crestUrl": "/assets/Germany.png"
+                },
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 3,
+                "team": {
+                    "id": 827,
+                    "name": "Hungary",
+                    "crestUrl": "/assets/Hungary.png"
+                },
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            },
+            {
+                "position": 4,
+                "team": {
+                    "id": 765,
+                    "name": "Portugal",
+                    "crestUrl": "/assets/Portugal.png"
+                },
+                "playedGames": 0,
+                "games": [],
+                "form": null,
+                "won": 0,
+                "draw": 0,
+                "lost": 0,
+                "points": 0,
+                "goalsFor": 0,
+                "goalsAgainst": 0,
+                "goalDifference": 0
+            }
+        ]
+    }
+]

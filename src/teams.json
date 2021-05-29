@@ -1,0 +1,147 @@
+[
+    {
+        "id": 759,
+        "name": "Germany",
+        "shortName": "GER",
+        "crestUrl": "/assets/Germany.png"
+    },
+    {
+        "id": 760,
+        "name": "Spain",
+        "shortName": "ESP",
+        "crestUrl": "/assets/Spain.png"
+    },
+    {
+        "id": 765,
+        "name": "Portugal",
+        "shortName": "POR",
+        "crestUrl": "/assets/Portugal.png"
+    },
+    {
+        "id": 768,
+        "name": "Slovakia",
+        "shortName": "SVK",
+        "crestUrl": "/assets/Slovakia.png"
+    },
+    {
+        "id": 770,
+        "name": "England",
+        "shortName": "ENG",
+        "crestUrl": "/assets/England.png"
+    },
+    {
+        "id": 773,
+        "name": "France",
+        "shortName": "FRA",
+        "crestUrl": "/assets/France.png"
+    },
+    {
+        "id": 782,
+        "name": "Denmark",
+        "shortName": "DEN",
+        "crestUrl": "/assets/Denmark.png"
+    },
+    {
+        "id": 784,
+        "name": "Italy",
+        "shortName": "ITA",
+        "crestUrl": "/assets/Italy.png"
+    },
+    {
+        "id": 788,
+        "name": "Switzerland",
+        "shortName": "SUI",
+        "crestUrl": "/assets/Switzerland.png"
+    },
+    {
+        "id": 790,
+        "name": "Ukraine",
+        "shortName": "UKR",
+        "crestUrl": "/assets/Ukraine.png"
+    },
+    {
+        "id": 792,
+        "name": "Sweden",
+        "shortName": "SWE",
+        "crestUrl": "/assets/Sweden.png"
+    },
+    {
+        "id": 794,
+        "name": "Poland",
+        "shortName": "POL",
+        "crestUrl": "/assets/Poland.png"
+    },
+    {
+        "id": 798,
+        "name": "Czech Republic",
+        "shortName": "CZE",
+        "crestUrl": "/assets/Czech Republic.png"
+    },
+    {
+        "id": 799,
+        "name": "Croatia",
+        "shortName": "CRO",
+        "crestUrl": "/assets/Croatia.png"
+    },
+    {
+        "id": 803,
+        "name": "Turkey",
+        "shortName": "TUR",
+        "crestUrl": "/assets/Turkey.png"
+    },
+    {
+        "id": 805,
+        "name": "Belgium",
+        "shortName": "BEL",
+        "crestUrl": "/assets/Belgium.png"
+    },
+    {
+        "id": 808,
+        "name": "Russia",
+        "shortName": "RUS",
+        "crestUrl": "/assets/Russia.png"
+    },
+    {
+        "id": 816,
+        "name": "Austria",
+        "shortName": "AUT",
+        "crestUrl": "/assets/Austria.png"
+    },
+    {
+        "id": 827,
+        "name": "Hungary",
+        "shortName": "HUN",
+        "tla": "HUN",
+        "crestUrl": "/assets/Hungary.png"
+    },
+    {
+        "id": 833,
+        "name": "Wales",
+        "shortName": "WAL",
+        "crestUrl": "/assets/Wales.png"
+    },
+    {
+        "id": 1976,
+        "name": "Finland",
+        "shortName": "FIN",
+        "crestUrl": "/assets/Finland.png"
+    },
+    {
+        "id": 1977,
+        "name": "North Macedonia",
+        "shortName": "MKD",
+        "crestUrl": "/assets/Macedonia.png"
+    },
+    {
+        "id": 8601,
+        "name": "Netherlands",
+        "shortName": "NED",
+        "crestUrl": "/assets/Netherlands.png"
+    },
+    {
+        "id": 8873,
+        "name": "Scotland",
+        "shortName": "SCO",
+        "crestUrl": "/assets/Scotland.png"
+    }
+]

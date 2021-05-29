@@ -4,6 +4,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { initializeTeams } from "./reducers/teamReducer";
 import { initializeMatches } from "./reducers/matchReducer";
 import GroupMatches from "./components/GroupMatches";
+import KnockoutGames from "./components/KnockoutGames";
+import { initializeStandings } from "./reducers/standingReducer";
 
 const App = () => {
   const groupNames = [
@@ -15,12 +17,13 @@ const App = () => {
     "Group F",
   ];
 
-  const dispatch = useDispatch();
+  // const dispatch = useDispatch();
 
-  useEffect(() => {
-    dispatch(initializeTeams());
-    dispatch(initializeMatches());
-  }, [dispatch]);
+  // useEffect(() => {
+  //   dispatch(initializeTeams());
+  //   dispatch(initializeMatches());
+  //   dispatch(initializeStandings());
+  // }, [dispatch]);
 
   return (
     <div className="container">
@@ -32,6 +35,7 @@ const App = () => {
             <GroupMatches name={m} />
           </div>
         ))}
+        <KnockoutGames />
       </div>
     </div>
   );

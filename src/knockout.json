@@ -1,0 +1,317 @@
+[
+    {
+        "teams": "ABCD",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3A"
+            },
+            {
+                "home": "1C",
+                "away": "3D"
+            },
+            {
+                "home": "1E",
+                "away": "3B"
+            },
+            {
+                "home": "1F",
+                "away": "3C"
+            }
+        ]
+    },
+    {
+        "teams": "ABCE",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3A"
+            },
+            {
+                "home": "1C",
+                "away": "3E"
+            },
+            {
+                "home": "1E",
+                "away": "3B"
+            },
+            {
+                "home": "1F",
+                "away": "3C"
+            }
+        ]
+    },
+    {
+        "teams": "ABCF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3A"
+            },
+            {
+                "home": "1C",
+                "away": "3F"
+            },
+            {
+                "home": "1E",
+                "away": "3B"
+            },
+            {
+                "home": "1F",
+                "away": "3C"
+            }
+        ]
+    },
+    {
+        "teams": "ABDE",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3D"
+            },
+            {
+                "home": "1C",
+                "away": "3E"
+            },
+            {
+                "home": "1E",
+                "away": "3A"
+            },
+            {
+                "home": "1F",
+                "away": "3B"
+            }
+        ]
+    },
+    {
+        "teams": "ABDF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3D"
+            },
+            {
+                "home": "1C",
+                "away": "3F"
+            },
+            {
+                "home": "1E",
+                "away": "3A"
+            },
+            {
+                "home": "1F",
+                "away": "3B"
+            }
+        ]
+    },
+    {
+        "teams": "ABEF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3E"
+            },
+            {
+                "home": "1C",
+                "away": "3F"
+            },
+            {
+                "home": "1E",
+                "away": "3B"
+            },
+            {
+                "home": "1F",
+                "away": "3A"
+            }
+        ]
+    },
+    {
+        "teams": "ACDE",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3E"
+            },
+            {
+                "home": "1C",
+                "away": "3D"
+            },
+            {
+                "home": "1E",
+                "away": "3C"
+            },
+            {
+                "home": "1F",
+                "away": "3A"
+            }
+        ]
+    },
+    {
+        "teams": "ACDF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3F"
+            },
+            {
+                "home": "1C",
+                "away": "3D"
+            },
+            {
+                "home": "1E",
+                "away": "3C"
+            },
+            {
+                "home": "1F",
+                "away": "3A"
+            }
+        ]
+    },
+    {
+        "teams": "ACEF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3E"
+            },
+            {
+                "home": "1C",
+                "away": "3F"
+            },
+            {
+                "home": "1E",
+                "away": "3C"
+            },
+            {
+                "home": "1F",
+                "away": "3A"
+            }
+        ]
+    },
+    {
+        "teams": "ADEF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3E"
+            },
+            {
+                "home": "1C",
+                "away": "3F"
+            },
+            {
+                "home": "1E",
+                "away": "3C"
+            },
+            {
+                "home": "1F",
+                "away": "3A"
+            }
+        ]
+    },
+    {
+        "teams": "BCDE",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3E"
+            },
+            {
+                "home": "1C",
+                "away": "3D"
+            },
+            {
+                "home": "1E",
+                "away": "3B"
+            },
+            {
+                "home": "1F",
+                "away": "3C"
+            }
+        ]
+    },
+    {
+        "teams": "BCDF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3F"
+            },
+            {
+                "home": "1C",
+                "away": "3D"
+            },
+            {
+                "home": "1E",
+                "away": "3C"
+            },
+            {
+                "home": "1F",
+                "away": "3B"
+            }
+        ]
+    },
+    {
+        "teams": "BCEF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3F"
+            },
+            {
+                "home": "1C",
+                "away": "3E"
+            },
+            {
+                "home": "1E",
+                "away": "3C"
+            },
+            {
+                "home": "1F",
+                "away": "3B"
+            }
+        ]
+    },
+    {
+        "teams": "BDEF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3F"
+            },
+            {
+                "home": "1C",
+                "away": "3E"
+            },
+            {
+                "home": "1E",
+                "away": "3D"
+            },
+            {
+                "home": "1F",
+                "away": "3B"
+            }
+        ]
+    },
+    {
+        "teams": "CDEF",
+        "matches": [
+            {
+                "home": "1B",
+                "away": "3F"
+            },
+            {
+                "home": "1C",
+                "away": "3E"
+            },
+            {
+                "home": "1E",
+                "away": "3D"
+            },
+            {
+                "home": "1F",
+                "away": "3C"
+            }
+        ]
+    }
+]

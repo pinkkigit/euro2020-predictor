@@ -2,9 +2,6 @@ import React from "react";
 import TeamFlag from "./TeamFlag";
 
 const TeamStanding = ({ team }) => {
-  if (team.gamesPlayed > 0) {
-    console.log(team);
-  }
   return (
     <tbody>
       <tr>

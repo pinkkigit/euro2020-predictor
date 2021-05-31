@@ -3,19 +3,11 @@ import { useDispatch, useSelector } from "react-redux";
 import TeamFlag from "./TeamFlag";
 import { addResult } from "../reducers/matchReducer";
 import { updateStandings } from "../reducers/standingReducer";
+import formatDate from "../utils/formatDate";
 
 const GroupMatch = ({ match, breakpoint, width }) => {
   const dispatch = useDispatch();
   const standings = useSelector((state) => state.standings);
-
-  const formatDate = (dateString) => {
-    const date = new Date(dateString);
-    return (
-      date.toLocaleDateString().replaceAll("/", ".") +
-      " " +
-      date.toLocaleTimeString().slice(0, -3).replace(".", ":")
-    );
-  };
 
   const handleHomeInput = (event) => {
     const score = event.target.value === "" ? null : Number(event.target.value);

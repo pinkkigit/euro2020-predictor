@@ -1,0 +1,61 @@
+.game-bracket {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.game-round {
+    flex: 0.25;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 10px;
+    padding-right: 5px;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.game {
+    font-size: 14px;
+    margin: 10px 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 0 0 3px black;
+    background-color: #cfd3ce;
+}
+
+.game-vertical-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.game-date {
+    border-bottom: 1px solid darkgrey;
+}
+
+.game-horizontal-flex {
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.game-vertical-flex div:nth-child(2){border-bottom: 1px solid darkgrey;}
+
+.game-flag {
+    margin-left: 5px;
+}
+
+.game-team {
+    margin-left: 5px;
+    text-align: left;
+}
+
+.game-input {
+    margin-left: auto;
+    background-color: whitesmoke;
+    height: 100%;
+    width: 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+}

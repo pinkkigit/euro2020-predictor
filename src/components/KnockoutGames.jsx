@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
+import Divider from "./Divider";
 import sortTeams from "../utils/sortTeams";
+import KnockoutGame from "./KnockoutGame";
+import "../css/knockout.css";
 
 const KnockoutGames = () => {
   const [teams, setTeams] = useState([]);
@@ -24,6 +27,37 @@ const KnockoutGames = () => {
 
   return (
     <>
+      <Divider>Knockout phase</Divider>
+      <div className="game-bracket">
+        <div className="game-round">
+          {matches
+            .filter((m) => m.stage === "LAST_16")
+            .map((m) => (
+              <KnockoutGame key={m.id} game={m} />
+            ))}
+        </div>
+        <div className="game-round">
+          {matches
+            .filter((m) => m.stage === "QUARTER_FINAL")
+            .map((m) => (
+              <KnockoutGame key={m.id} game={m} />
+            ))}
+        </div>
+        <div className="game-round">
+          {matches
+            .filter((m) => m.stage === "SEMI_FINAL")
+            .map((m) => (
+              <KnockoutGame key={m.id} game={m} />
+            ))}
+        </div>
+        <div className="game-round">
+          {matches
+            .filter((m) => m.stage === "FINAL")
+            .map((m) => (
+              <KnockoutGame key={m.id} game={m} />
+            ))}
+        </div>
+      </div>
       {teams.map((t) => (
         <p key={t.team.id}>{t.team.name}</p>
       ))}

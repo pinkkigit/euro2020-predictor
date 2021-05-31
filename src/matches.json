@@ -916,7 +916,8 @@
         },
         "homeTeam": {
             "id": null,
-            "name": null
+            "name": null,
+            "standing": "1C"
         },
         "awayTeam": {
             "id": null,
